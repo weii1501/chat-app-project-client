@@ -1,5 +1,5 @@
 "# chat-app-project-client" 
-Chat app client 
-By Weii
+Chat app client /n
+By Weii /n
 add node modules: yarn
 run: yarn start
